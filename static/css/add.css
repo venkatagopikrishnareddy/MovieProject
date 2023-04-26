@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/image2.jpg");
+    background-size: cover;
+	color:black;
+}
+
+h1{
+    text-align: center;
+    color:blue;
+}
